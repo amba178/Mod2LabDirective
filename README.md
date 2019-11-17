@@ -1,3 +1,3 @@
 # Module 2 
-** Directive**
+**Directive**
 --Usage of directive in angular 
